@@ -1,0 +1,73 @@
+html{
+    font-family: 'Playfair Display', serif;
+    //background-color: #ffffff;
+  }
+  body{
+    background-color:  #D5D4D4;
+    padding: 20px;
+    margin: 10px;
+  }
+  #title{
+    //justify-content: center;
+    text-align: center;
+  //  background-color: #D5D4D4;
+    padding: 10px;
+  
+  }
+  h1{
+    padding: 20px;
+  }
+  #img-div{
+    display: block;
+    margin: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-right: auto;
+    padding-left: auto;
+    text-align: center;
+    background-color: #ffffff;
+  }
+  #image{
+    position: relative;
+    display: block;
+    margin: auto;
+    max-width: 100%;
+    height: auto;
+  }
+  #tribute-info{
+    display: block;
+  //  align-items: center;
+  background-color: #ffffff;
+    margin: 20px;
+    padding: 30px;
+  }
+  #lista{
+    display: table;
+    justify-content: space-around;
+    //background-color: #ffffff;
+    margin: auto;
+    padding: 10px;
+    text-align: center;
+  }
+  .item{
+    //background-color:  #D5D4D4;
+    margin: 10px;
+    padding: 5px;
+  }
+  #cita{
+    background-color: #ffffff;
+    text-align: center;
+    margin: 20px;
+    padding: 15px;
+    font-family: 'Great Vibes', cursive;
+    font-weight:normal;
+    font-size: 1.5em;
+  }
+  #pie{
+    margin: 20px;
+    text-align: center;
+  }
+  #tribute-link:hover{
+    color: #000000;
+  }
+  
